@@ -1,1 +1,6 @@
 This is file1 content
+<<<<<<< HEAD
+=======
+This is second commit content
+This is third commit content
+>>>>>>> parent of 7995551... final commit
