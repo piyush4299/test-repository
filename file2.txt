@@ -1,9 +1,1 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-This is the content in file2 which needs to be stashed.
-=======
-This is the content in file2 which needs to be stashed.
->>>>>>> Stashed changes
-=======
-This is the content in file2 which needs to be stashed.
->>>>>>> Stashed changes
+Resolved conflict.
