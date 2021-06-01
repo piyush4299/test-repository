@@ -1,7 +1,1 @@
 This is file1 content
-<<<<<<< HEAD
-This is second commit content
-This is third commit content
-This is fourth commit content
-=======
->>>>>>> parent of 20c8f77... first commit
