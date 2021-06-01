@@ -1,1 +1,4 @@
-content written in test_branch
+This is the content in file2 which needs to be stashed.
+This is the change I want to stash.
+Another stash.
+
