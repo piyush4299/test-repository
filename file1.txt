@@ -1,1 +1,4 @@
+This is file1 content
+This is second commit content
+content to be tested
 This is third new commit.
